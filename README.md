@@ -1,2 +1,2 @@
 # ysoft
-sa
+YSOFT İnsan Kaynakları Sistemi
